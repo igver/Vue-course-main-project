@@ -20,5 +20,9 @@ This Vue application includes:
 
 ______
 
+Test login:
 
+**user:** 123@test.com
+
+**pass:** 123123
 
