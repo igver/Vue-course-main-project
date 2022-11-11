@@ -20,7 +20,9 @@ This Vue application includes:
 
 ______
 
-Test login:
+App live: https://vue-http-demo-8abfb.web.app/coaches
+
+**Test login**
 
 **user:** 123@test.com
 
