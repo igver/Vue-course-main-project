@@ -3,7 +3,9 @@
 *Main project from course - **Vue - The Complete Guide (incl. Router &amp; Composition API) by Maximilian Schwarzmüller***
 
 
-Application: **Coach finder**
+Application: **Coach finder** - Instructor guided project
+
+ 
 
 It's an application where we have a list of coaches, we can filter those coaches, we can contact coaches through a form. Every coach can see the messages(requests) that sent to him under page requests. You can sign up or login and register as a coach.
 
